@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayraj12354/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/jayraj12354/LeetCode/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jayraj12354/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/jayraj12354/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
