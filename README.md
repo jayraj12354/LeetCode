@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayraj12354/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayraj12354/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayraj12354/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Array
 |  |
 | ------- |
@@ -28,10 +30,12 @@
 | [0018-4sum](https://github.com/jayraj12354/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayraj12354/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayraj12354/LeetCode/tree/master/0027-remove-element) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jayraj12354/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +56,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayraj12354/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +79,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +108,8 @@
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jayraj12354/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
