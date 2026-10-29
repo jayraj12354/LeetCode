@@ -31,6 +31,7 @@
 | [0018-4sum](https://github.com/jayraj12354/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayraj12354/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayraj12354/LeetCode/tree/master/0027-remove-element) |
+| [0063-unique-paths-ii](https://github.com/jayraj12354/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -81,6 +82,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jayraj12354/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/jayraj12354/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
