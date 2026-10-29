@@ -12,6 +12,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayraj12354/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jayraj12354/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
