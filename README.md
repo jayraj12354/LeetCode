@@ -22,6 +22,7 @@
 | [0020-valid-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jayraj12354/LeetCode/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
+| [1143-longest-common-subsequence](https://github.com/jayraj12354/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0062-unique-paths](https://github.com/jayraj12354/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jayraj12354/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0140-word-break-ii](https://github.com/jayraj12354/LeetCode/tree/master/0140-word-break-ii) |
+| [1143-longest-common-subsequence](https://github.com/jayraj12354/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jayraj12354/LeetCode/tree/master/0063-unique-paths-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jayraj12354/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
